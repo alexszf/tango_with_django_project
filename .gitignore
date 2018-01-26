@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
+__pycache__
 
 # Distribution / packaging
 .Python
@@ -12,7 +12,7 @@ env/
 venv/
 ENV/
 
-db.dqlite3
+db.sqlite3
 
 rango/tests_chapter3.py
 rango/tests_chapter4.py
