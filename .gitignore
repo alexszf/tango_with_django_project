@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+.Python
+env/
+# dotenv
+.env
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+db.dqlite3
+
+rango/tests_chapter3.py
+rango/tests_chapter4.py
+rango/tests_chapter5.py
+rango/tests_chapter6.py
+rango/tests_chapter7.py
+rango/tests_chapter8.py
+rango/tests_chapter9.py
+rango/tests_chapter10.py
+rango/decorators.py
+rango/test_utils.py
